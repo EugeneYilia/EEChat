@@ -1,20 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4252f8ad-56ff-4c1c-8719-39e2d7905005" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/static/images/AnalysisPressed.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/AnalysisUnpressed.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/DiscussionPressed.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/DiscussionUnpressed.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/ResultPressed.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/ResultUnpressed.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/SelfPressed.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/SelfUnpressed.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/config/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Navigator.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Navigator.vue" afterDir="false" />
-    </list>
+    <list default="true" id="4252f8ad-56ff-4c1c-8719-39e2d7905005" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -59,7 +46,7 @@
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
-      <file leaf-file-name="Navigator.vue" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Navigator.vue" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/components/Navigator.vue">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="145">
@@ -68,13 +55,8 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name=".postcssrc.js" pinned="false" current-in-tab="false">
+      <file leaf-file-name=".postcssrc.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.postcssrc.js">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
@@ -135,8 +117,8 @@
     </packageJsonPaths>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="598" />
-    <option name="y" value="46" />
+    <option name="x" value="101" />
+    <option name="y" value="42" />
     <option name="width" value="1850" />
     <option name="height" value="775" />
   </component>
@@ -281,16 +263,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1529227212911</updated>
-      <workItem from="1529227215938" duration="8134000" />
+      <workItem from="1529227215938" duration="8662000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8134000" />
+    <option name="totallyTimeSpent" value="8662000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="479" y="37" width="1480" height="620" extended-state="0" />
-    <editor active="true" />
+    <frame x="81" y="34" width="1480" height="620" extended-state="0" />
     <layout>
       <window_info anchor="right" id="Palette" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -375,12 +356,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.postcssrc.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/.editorconfig">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -408,6 +383,12 @@
           <caret line="33" column="31" selection-start-line="33" selection-start-column="31" selection-end-line="33" selection-end-column="31" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.postcssrc.js">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>
